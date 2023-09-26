@@ -24,6 +24,10 @@ namespace Working_Class_Demo
             return num1 - num2;
         }
 
+        public double Divide(double num1, double num2)
+        {
+            return num1 / num2;
+        }
         // Push online once
 
         // Save changes
